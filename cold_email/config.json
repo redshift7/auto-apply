@@ -1,7 +1,7 @@
 {
-    "resume_path": "C:\\Users\\sathv\\Desktop\\UNH\\Sathvik-Resume.pdf",
-    "sender_name": "Sathvik Santosh Kasoju",
-    "sender_email": "",
+    "resume_path": "[PATH_TO_YOUR_RESUME]",
+    "sender_name": "[YOUR_NAME]",
+    "sender_email": "[YOUR_EMAIL]",
     "daily_limit": 20,
     "delay_between_emails": 60,
     "linkedin_url": "",

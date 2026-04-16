@@ -1,12 +1,12 @@
 {
-  "first_name": "Sathvik Santosh",
-  "last_name": "Kasoju",
-  "email": "skaso1@unh.newhaven.edu",
-  "phone": "(203) 627-9055",
-  "linkedin": "https://www.linkedin.com/in/sathvikkasoju/",
-  "github": "https://github.com/redshift7",
+  "first_name": "[YOUR_FIRST_NAME]",
+  "last_name": "[YOUR_LAST_NAME]",
+  "email": "[YOUR_EMAIL]",
+  "phone": "[YOUR_PHONE]",
+  "linkedin": "[YOUR_LINKEDIN_URL]",
+  "github": "[YOUR_GITHUB_URL]",
   "website": null,
-  "location": "West Haven, Connecticut",
+  "location": "[YOUR_LOCATION]",
   "summary": "Data Engineer specializing in real-time streaming and big data architecture with 4 years of experience at scale. Built inventory synchronization pipelines for 10,000+ retail locations across major brands including 7-Eleven and JioMart.",
   "current_title": "Data Engineer",
   "years_experience": 4,
@@ -14,16 +14,16 @@
     {
       "degree": "Master's of Science",
       "field": "Business Analytics",
-      "school": "University of New Haven",
-      "location": "West Haven, Connecticut",
+      "school": "[YOUR_UNIVERSITY]",
+      "location": "[YOUR_LOCATION]",
       "graduation_date": "May 2026",
       "gpa": null
     },
     {
       "degree": "Bachelor of Technology",
       "field": "Computer Engineering",
-      "school": "Mukesh Patel School of Technology Management",
-      "location": "Mumbai, India",
+      "school": "[YOUR_SCHOOL]",
+      "location": "[YOUR_LOCATION]",
       "graduation_date": "August 2020",
       "gpa": null
     }
@@ -31,8 +31,8 @@
   "work_experience": [
     {
       "title": "Software Developer (Big data)",
-      "company": "Jio Platforms Ltd.",
-      "location": "Mumbai, India",
+      "company": "[YOUR_COMPANY]",
+      "location": "[YOUR_LOCATION]",
       "start_date": "August 2020",
       "end_date": "August 2024",
       "highlights": [
@@ -45,8 +45,8 @@
     },
     {
       "title": "Software Developer Intern",
-      "company": "IDBI Intech",
-      "location": "Mumbai, India",
+      "company": "[YOUR_COMPANY]",
+      "location": "[YOUR_LOCATION]",
       "start_date": "April 2018",
       "end_date": "July 2018",
       "highlights": [

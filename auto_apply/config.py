@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Paths
 BASE_DIR = Path(__file__).parent
-RESUME_PATH = Path(r"C:\Users\sathv\Desktop\UNH\Sathvik-Resume.pdf")
+RESUME_PATH = Path(r"[PATH_TO_YOUR_RESUME]")
 PROFILE_PATH = BASE_DIR / "profile.json"
 APPLIED_JOBS_PATH = BASE_DIR / "applied_jobs.json"
 COVER_LETTERS_DIR = BASE_DIR / "cover_letters"

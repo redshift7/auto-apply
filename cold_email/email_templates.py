@@ -181,8 +181,8 @@ if __name__ == "__main__":
         recipient_name="John Smith",
         recipient_role="Technical Recruiter",
         company="Google",
-        sender_name="Sathvik Kasoju",
-        linkedin_url="https://linkedin.com/in/sathvik"
+        sender_name="[YOUR_NAME]",
+        linkedin_url="[YOUR_LINKEDIN_URL]"
     )
     
     print("Subject:", email['subject'])

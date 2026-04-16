@@ -165,7 +165,7 @@ if __name__ == "__main__":
     test_cases = [
         ("John Smith", "google.com"),
         ("Jane Doe", "meta.com"),
-        ("Sathvik Kasoju", "databricks.com"),
+        ("[YOUR_NAME]", "example.com"),
     ]
     
     for name, domain in test_cases:
