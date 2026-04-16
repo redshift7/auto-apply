@@ -19,7 +19,7 @@ Automated job application tool that searches and applies to Data Engineer positi
    ```
 
 2. **Your resume** is configured at:
-   `C:\Users\sathv\Desktop\UNH\Sathvik-Resume.pdf`
+   `[PATH_TO_YOUR_RESUME]`
 
 3. **Parse your resume** (already done, but to re-parse):
    ```bash
