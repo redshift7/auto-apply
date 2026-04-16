@@ -1,0 +1,99 @@
+{
+  "jobs": [
+    {
+      "url": "https://jobs.ashbyhq.com/zapier/fa3ccba9-dacd-4f78-b615-99f85dc02acd",
+      "job_title": "Data Engineer",
+      "company": "Zapier",
+      "platform": "ashby",
+      "success": false,
+      "message": "Submitted but could not confirm success",
+      "applied_at": "2026-03-24T10:53:22.294388"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/zapier/fa3ccba9-dacd-4f78-b615-99f85dc02acd#:~:text=We're%20hiring%20two%20Data%20Engineers,the%20future%20of%20how%20data",
+      "job_title": "Data Engineer",
+      "company": "Zapier",
+      "platform": "ashby",
+      "success": false,
+      "message": "Submitted but could not confirm success",
+      "applied_at": "2026-03-24T10:53:35.143636"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002",
+      "job_title": "Thrive in a Supportive Environment to Help Improve the Healthcare Experience",
+      "company": "",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "Could not find submit button",
+      "applied_at": "2026-03-24T10:53:45.159665"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002#:~:text=Data%20Engineer%20Intern%20(Internship)&text=2%2B%20years%20of%20experience%20working,with%20healthcare%20data.&text=Understanding%20and%20passion%20for%20healthcare,Claims%2C%20Provider%20and%20other%20domains.",
+      "job_title": "Thrive in a Supportive Environment to Help Improve the Healthcare Experience",
+      "company": "",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "Could not find submit button",
+      "applied_at": "2026-03-24T10:53:52.732867"
+    },
+    {
+      "url": "http://job-boards.greenhouse.io/lithic/jobs/5833301004",
+      "job_title": "",
+      "company": "Unknown",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "CAPTCHA timeout",
+      "applied_at": "2026-03-24T10:57:03.343974"
+    },
+    {
+      "url": "http://job-boards.greenhouse.io/lithic/jobs/5833301004#:~:text=Lithic%20is%20hiring%20a%20Data,analytics%20organization%20depends%20on.%20You'll",
+      "job_title": "Data Engineer",
+      "company": "Lithic",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "Could not find submit button",
+      "applied_at": "2026-03-24T11:34:46.408242"
+    },
+    {
+      "url": "http://job-boards.greenhouse.io/baselayer/jobs/5175935008",
+      "job_title": "Data Engineer",
+      "company": "Baselayer",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "Submitted but could not confirm success",
+      "applied_at": "2026-04-06T18:51:19.211621"
+    },
+    {
+      "url": "http://job-boards.greenhouse.io/baselayer/jobs/5175935008#:~:text=We%20are%20looking%20for%20a,reliability%2C%20performance%2C%20and%20data%20quality.",
+      "job_title": "Data Engineer",
+      "company": "Baselayer",
+      "platform": "greenhouse",
+      "success": false,
+      "message": "Submitted but could not confirm success",
+      "applied_at": "2026-04-06T18:51:37.807271"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180?utm_source=jobs.a16z.com",
+      "job_title": "Data Engineer",
+      "company": "",
+      "platform": "ashby",
+      "success": false,
+      "message": "Could not find submit button",
+      "applied_at": "2026-04-06T18:51:50.280682"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180?utm_source=jobs.a16z.com#:~:text=GTM%20Data%20Engineer%20Intern,OverviewApplication",
+      "job_title": "",
+      "company": "Unknown",
+      "platform": "ashby",
+      "success": false,
+      "message": "Error: Page.goto: Target page, context or browser has been closed\nCall log:\nnavigating to \"https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180?utm_source=jobs.a16z.com#:~:text=GTM%20Data%20Engineer%20Intern,OverviewApplication\", waiting until \"networkidle\"\n",
+      "applied_at": "2026-04-06T18:51:53.879712"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "successful": 0,
+    "failed": 10
+  }
+}

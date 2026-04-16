@@ -1,0 +1,11 @@
+Cover Letter for  at Plaid
+Generated: 2026-03-24 00:12
+==================================================
+
+When I discovered Plaid's mission to democratize financial services through innovative API solutions, it immediately resonated with my passion for building scalable data infrastructure that powers real-world applications at massive scale. Your commitment to creating seamless financial experiences aligns perfectly with my four years of experience engineering high-performance data pipelines that serve millions of users daily across major retail platforms.
+
+At Jio Platforms Ltd., I've spent the last four years architecting and optimizing big data solutions that mirror the complexity and scale challenges Plaid faces in financial services. I engineered Spark and Flink ETL pipelines processing over 50 million daily inventory records across 10,000+ store locations for brands like 7-Eleven and JioMart, reducing data processing latency by 40% through strategic Kafka streaming optimizations. Most notably, I led the integration of Apache Iceberg into our HDP ecosystem, replacing legacy change data capture logic and improving data mart reporting speeds by 60% – experience that translates directly to the real-time financial data processing requirements at Plaid.
+
+My technical foundation spans the full data engineering stack, from Python, Scala, and Java development to distributed systems using Apache Spark, Kafka, and cloud platforms like AWS and Azure. I've consistently delivered solutions that balance performance, reliability, and scalability – whether building RESTful API integrations during my early internship at IDBI Intech or orchestrating complex data synchronization across multiple retail platforms. What excites me most about this opportunity is the chance to apply my expertise in streaming architectures and distributed systems to help financial institutions and developers build more accessible, secure financial products.
+
+Plaid's reputation for technical excellence and its pivotal role in the fintech ecosystem makes this the ideal next step in my career. I'm eager to contribute to your data infrastructure and help scale the platform that's powering the future of financial services.

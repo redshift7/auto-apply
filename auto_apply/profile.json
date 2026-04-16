@@ -1,0 +1,125 @@
+{
+  "first_name": "Sathvik Santosh",
+  "last_name": "Kasoju",
+  "email": "skaso1@unh.newhaven.edu",
+  "phone": "(203) 627-9055",
+  "linkedin": "https://www.linkedin.com/in/sathvikkasoju/",
+  "github": "https://github.com/redshift7",
+  "website": null,
+  "location": "West Haven, Connecticut",
+  "summary": "Data Engineer specializing in real-time streaming and big data architecture with 4 years of experience at scale. Built inventory synchronization pipelines for 10,000+ retail locations across major brands including 7-Eleven and JioMart.",
+  "current_title": "Data Engineer",
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "Master's of Science",
+      "field": "Business Analytics",
+      "school": "University of New Haven",
+      "location": "West Haven, Connecticut",
+      "graduation_date": "May 2026",
+      "gpa": null
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Engineering",
+      "school": "Mukesh Patel School of Technology Management",
+      "location": "Mumbai, India",
+      "graduation_date": "August 2020",
+      "gpa": null
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Software Developer (Big data)",
+      "company": "Jio Platforms Ltd.",
+      "location": "Mumbai, India",
+      "start_date": "August 2020",
+      "end_date": "August 2024",
+      "highlights": [
+        "Engineered scalable Spark and Flink ETL pipelines processing 50M+ daily inventory records for 7-Eleven, JioMart, AJIO, and Marks and Spencer, synchronizing real-time stock across 10,000+ store locations",
+        "Reduced data processing latency by 40% by optimizing Kafka streaming architecture and implementing parallel processing strategies for high-volume retail data",
+        "Integrated Apache Iceberg into the HDP ecosystem, replacing legacy SCD logic and improving data mart reporting speeds by 60% for JioMart and AJIO platforms",
+        "Built product recommendation pipelines using PySpark ML, increasing user engagement by 25% on e-commerce platforms",
+        "Led cross-functional teams of 5+ engineers on Flink and Spark development projects, mentoring junior developers and managing sprint deliverables"
+      ]
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": "IDBI Intech",
+      "location": "Mumbai, India",
+      "start_date": "April 2018",
+      "end_date": "July 2018",
+      "highlights": [
+        "Developed Android application IDBI App Kart B2B using Java and Android Studio, providing enterprise access to banking services for 500+ business users",
+        "Implemented RESTful API integrations for secure data exchange between mobile client and backend services"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "Scala",
+      "Java",
+      "PySpark",
+      "C++",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "React",
+      "Apache Spark",
+      "Apache Flink"
+    ],
+    "databases": [
+      "SQL Server",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "cloud_platforms": [
+      "Azure",
+      "AWS",
+      "Databricks"
+    ],
+    "tools": [
+      "Apache Kafka",
+      "Hive",
+      "HDFS",
+      "Apache Iceberg",
+      "Airflow",
+      "NiFi",
+      "Trino",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab",
+      "Tableau",
+      "Power BI",
+      "Excel"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Port Authority Tunnels and Bridges Analytics",
+      "technologies": [
+        "Python",
+        "Azure AutoML",
+        "Power BI"
+      ],
+      "description": "Analyzed traffic patterns across Holland Tunnel, George Washington Bridge, and Lincoln Tunnel to identify top factors affecting facility usage including seasonality, weather, and holidays. Built traffic forecasting models using Azure AutoML and Python to predict facility usage beyond 2025.",
+      "date": "March 2026"
+    },
+    {
+      "name": "FleetCor Cross-Sell Strategy",
+      "technologies": [
+        "PySpark",
+        "SQL Server",
+        "Tableau"
+      ],
+      "description": "Built end-to-end PySpark ETL pipeline ingesting data from SQL Server, applying Logistic Regression and Decision Tree models for credit risk scoring. Designed interactive Tableau dashboards visualizing revenue drivers, identifying high-value customer segments to optimize Universal Card adoption strategy.",
+      "date": "April 2025"
+    }
+  ],
+  "certifications": [],
+  "work_authorization": null,
+  "requires_sponsorship": null
+}
